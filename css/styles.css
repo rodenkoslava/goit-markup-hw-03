@@ -122,7 +122,10 @@ img {
 
 .header-section {}
 
-.header-navigation {}
+.header-navigation {
+    display: flex;
+    align-items: center;
+}
 
 .nav-list {
     display: flex;
