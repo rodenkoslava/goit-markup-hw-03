@@ -45,6 +45,7 @@ img {
 
 .container-header {
     display: flex;
+    align-items: center;
 }
 
 .list {
@@ -119,6 +120,11 @@ img {
 
 /*-----HEADER-----*/
 
+.header-conteiner {
+    display: flex;
+    align-items: center;
+}
+
 .header-section {
     display: flex;
     border-bottom: 1px solid #e7e9fc
@@ -137,9 +143,7 @@ img {
     padding-bottom: 24px;
 }
 
-.nav-item {
-    display: flex;
-}
+.nav-item {}
 
 .header-link {
     font-family: inherit;
