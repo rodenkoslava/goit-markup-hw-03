@@ -163,12 +163,10 @@ img {
 .address-list {
     display: flex;
     gap: 40px;
+
 }
 
-.address-item {
-    padding-top: 24px;
-    padding-bottom: 24px;
-}
+.address-item {}
 
 .address-link {
     font-family: inherit;
@@ -176,7 +174,8 @@ img {
     line-height: var(--tipical-line-height);
     letter-spacing: 0.02em;
     color: inherit;
-
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .address-link:hover,
