@@ -158,6 +158,7 @@ img {
 
 .address-list {
     display: flex;
+    gap: 40px;
 }
 
 .address-item {}
