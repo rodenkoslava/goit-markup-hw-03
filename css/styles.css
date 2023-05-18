@@ -133,12 +133,11 @@ img {
     display: flex;
     align-items: center;
     gap: 40px;
-}
-
-.nav-item {
     padding-top: 24px;
     padding-bottom: 24px;
 }
+
+.nav-item {}
 
 .header-link {
     font-family: inherit;
