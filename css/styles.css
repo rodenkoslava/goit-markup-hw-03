@@ -45,7 +45,6 @@ img {
 
 .container-header {
     display: flex;
-    border-bottom: 1px solid #e7e9fc
 }
 
 .list {
@@ -120,7 +119,9 @@ img {
 
 /*-----HEADER-----*/
 
-.header-section {}
+.header-section {
+    border-bottom: 1px solid #e7e9fc
+}
 
 .header-navigation {
     display: flex;
@@ -154,10 +155,12 @@ img {
     font-style: normal;
 }
 
-/* 
-.address-list {}
 
-.address-item {} */
+.address-list {
+    display: flex;
+}
+
+.address-item {}
 
 .address-link {
     font-family: inherit;
