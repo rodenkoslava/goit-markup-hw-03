@@ -129,8 +129,7 @@ img {
     display: flex;
     border-bottom: 1px solid #e7e9fc;
     padding-top: 24px;
-    padding-bottom: 24px;
-    margin: 0 auto;
+
 }
 
 .header-navigation {
@@ -142,6 +141,8 @@ img {
     display: flex;
     align-items: center;
     gap: 40px;
+    padding-bottom: 24px;
+    margin: 0 auto;
 
 }
 
