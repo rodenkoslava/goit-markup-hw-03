@@ -173,13 +173,16 @@ img {
 .address-list {
     display: flex;
     align-items: center;
-    margin-left: auto;
-}
-
-.address-item:not(:last-child) {
-    margin-right: 50px;
+    margin-left: 0;
     padding-top: 24px;
     padding-bottom: 24px;
+}
+
+.address-item {
+    margin-right: 40px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    margin-right: 40px;
 }
 
 .address-link {
@@ -188,7 +191,6 @@ img {
     line-height: var(--tipical-line-height);
     letter-spacing: 0.02em;
     color: inherit;
-    gap: 40px;
 
 
 }
