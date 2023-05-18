@@ -131,9 +131,13 @@ img {
 .nav-list {
     display: flex;
     align-items: center;
+    gap: 40px;
 }
 
-.nav-item {}
+.nav-item {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
 
 .header-link {
     font-family: inherit;
