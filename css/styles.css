@@ -137,7 +137,9 @@ img {
     padding-bottom: 24px;
 }
 
-.nav-item {}
+.nav-item {
+    display: flex;
+}
 
 .header-link {
     font-family: inherit;
