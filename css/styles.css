@@ -130,6 +130,7 @@ img {
     border-bottom: 1px solid #e7e9fc;
     padding-top: 24px;
     padding-bottom: 24px;
+    margin: 0 auto;
 }
 
 .header-navigation {
@@ -170,10 +171,13 @@ img {
 
 .address-list {
     display: flex;
-    gap: 40px;
+    align-items: center;
+    margin-left: auto;
 }
 
-.address-item {}
+.address-item:not(:last-child) {
+    margin-right: 50px;
+}
 
 .address-link {
     font-family: inherit;
