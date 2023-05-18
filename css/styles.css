@@ -165,7 +165,10 @@ img {
     gap: 40px;
 }
 
-.address-item {}
+.address-item {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
 
 .address-link {
     font-family: inherit;
