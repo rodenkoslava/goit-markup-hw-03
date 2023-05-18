@@ -177,6 +177,8 @@ img {
 
 .address-item:not(:last-child) {
     margin-right: 50px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .address-link {
@@ -185,8 +187,7 @@ img {
     line-height: var(--tipical-line-height);
     letter-spacing: 0.02em;
     color: inherit;
-    padding-top: 24px;
-    padding-bottom: 24px;
+
 
 }
 
