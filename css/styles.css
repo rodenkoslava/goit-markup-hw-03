@@ -120,6 +120,7 @@ img {
 /*-----HEADER-----*/
 
 .header-section {
+    display: flex;
     border-bottom: 1px solid #e7e9fc
 }
 
@@ -157,13 +158,13 @@ img {
 .address {
     display: flex;
     font-style: normal;
+    gap: 40px;
 }
 
 
 .address-list {
     display: flex;
     gap: 40px;
-
 }
 
 .address-item {}
@@ -176,6 +177,7 @@ img {
     color: inherit;
     padding-top: 24px;
     padding-bottom: 24px;
+
 }
 
 .address-link:hover,
