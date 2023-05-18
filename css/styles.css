@@ -102,6 +102,7 @@ img {
 }
 
 .header-logo-first {
+    margin-right: 76px;
     color: var(--first-main-color);
 }
 
@@ -119,14 +120,17 @@ img {
 
 /*-----HEADER-----*/
 
-/* .header-section {}
+.header-section {}
 
 .header-navigation {}
 
-.nav-list {}
+.nav-list {
+    display: flex;
+    align-items: center;
+}
 
 .nav-item {}
- */
+
 .header-link {
     font-family: inherit;
     font-style: normal;
@@ -143,6 +147,7 @@ img {
 }
 
 .address {
+    display: flex;
     font-style: normal;
 }
 
