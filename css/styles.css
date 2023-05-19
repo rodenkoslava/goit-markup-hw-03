@@ -389,12 +389,10 @@ img {
 .footer-logo-first {
     color: var(--first-main-color);
     margin-bottom: 16px;
+    display: inline-block;
 }
 
 .footer-logo-second {
     color: var(--ghostWhite-color);
-}
-
-.container-footer {
     display: inline-block;
 }
