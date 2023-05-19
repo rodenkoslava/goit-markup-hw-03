@@ -277,10 +277,14 @@ img {
     margin-bottom: 72px;
 }
 
-.product-list {}
+.product-list {
+    display: flex;
+    gap: 24px;
+}
 
 .product-item {
     padding-bottom: 120px;
+    width: calc((100% - 48px) / 3);
 }
 
 /*-----OUR TEAM-----*/
