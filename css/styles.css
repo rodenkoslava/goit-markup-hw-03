@@ -222,7 +222,6 @@ img {
 
 .section-principles {
     padding: 120px 0;
-    margin-bottom: 8px;
 }
 
 .principles-title {}
@@ -238,15 +237,18 @@ img {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
+    margin-bottom: 8px;
 }
 
 .principles-list {
     display: flex;
     gap: 24px;
+    margin-bottom: 8px;
 }
 
 .principles-item {
     width: calc((100% - 72px) / 4);
+    margin-bottom: 8px;
 }
 
 .page-subtitle {
