@@ -213,6 +213,7 @@ img {
 
 .section-hero {
     background: var(--title-color);
+    padding: 188px 0;
 }
 
 .headline {
