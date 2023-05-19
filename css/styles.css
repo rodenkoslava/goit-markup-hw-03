@@ -224,7 +224,9 @@ img {
     padding: 120px 0;
 }
 
-.principles-title {}
+.principles-title {
+    margin-bottom: 8px;
+}
 
 .visually-hidden {
     position: absolute;
