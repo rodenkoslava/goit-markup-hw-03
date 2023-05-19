@@ -221,7 +221,8 @@ img {
 /*-----OUR PRINCIPLES AND PRIORITIES-----*/
 
 .section-principles {
-    padding: 120px 0
+    padding: 120px 0;
+    margin-bottom: 8px;
 }
 
 .principles-title {
