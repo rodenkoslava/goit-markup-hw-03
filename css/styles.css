@@ -168,14 +168,14 @@ img {
 .address {
     display: flex;
     font-style: normal;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 
 .address-list {
     display: flex;
     align-items: center;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .address-item {
@@ -190,8 +190,7 @@ img {
     line-height: var(--tipical-line-height);
     letter-spacing: 0.02em;
     color: inherit;
-
-
+    margin: 0;
 }
 
 .address-link:hover,
