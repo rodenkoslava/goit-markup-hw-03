@@ -265,7 +265,9 @@ img {
 
 /*-----OUR PRODUCTS-----*/
 
-.product-section {}
+.product-section {
+    padding-bottom: 120px;
+}
 
 .body-title {
     font-size: 36px;
@@ -275,11 +277,13 @@ img {
     text-transform: capitalize;
     color: var(--title-color);
     margin-bottom: 72px;
+    padding-bottom: 120px;
 }
 
 .product-list {
     display: flex;
     gap: 24px;
+    padding-bottom: 120px;
 }
 
 .product-item {
