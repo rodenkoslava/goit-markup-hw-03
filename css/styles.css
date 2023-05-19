@@ -284,6 +284,7 @@ img {
 
 .product-item {
     width: calc((100% - 48px) / 3);
+    padding: 120px 0
 }
 
 /*-----OUR TEAM-----*/
