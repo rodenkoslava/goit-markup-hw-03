@@ -166,10 +166,13 @@ img {
 }
 
 .address {
-    display: flex;
     font-style: normal;
-    padding-top: 24px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
     padding-bottom: 24px;
+    padding-top: 24px;
+    margin: 0 auto;
 }
 
 
@@ -178,11 +181,7 @@ img {
     align-items: center;
 }
 
-.address-item {
-    margin-right: 40px;
-    padding-top: 24px;
-    padding-bottom: 24px;
-}
+.address-item {}
 
 .address-link {
     font-family: inherit;
