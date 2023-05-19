@@ -181,7 +181,11 @@ img {
     align-items: center;
 }
 
-.address-item {}
+.address-item {
+    margin-right: 40px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
 
 .address-link {
     font-family: inherit;
