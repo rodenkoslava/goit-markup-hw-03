@@ -222,6 +222,7 @@ img {
 
 .section-principles {
     padding: 120px 0;
+    margin-bottom: 8px;
 }
 
 .principles-title {}
@@ -242,7 +243,6 @@ img {
 .principles-list {
     display: flex;
     gap: 24px;
-    margin-bottom: 8px;
 }
 
 .principles-item {
