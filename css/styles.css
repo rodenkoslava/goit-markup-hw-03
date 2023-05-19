@@ -224,9 +224,7 @@ img {
     padding: 120px 0;
 }
 
-.principles-title {
-    padding: 188px 0;
-}
+.principles-title {}
 
 .visually-hidden {
     position: absolute;
@@ -239,13 +237,12 @@ img {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-    padding: 188px 0;
 }
 
 .principles-list {
     display: flex;
     gap: 24px;
-    padding: 188px 0;
+    margin-bottom: 8px;
 }
 
 .principles-item {
