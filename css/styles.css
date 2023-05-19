@@ -265,9 +265,7 @@ img {
 
 /*-----OUR PRODUCTS-----*/
 
-.product-section {
-    padding-bottom: 120px;
-}
+.product-section {}
 
 .body-title {
     font-size: 36px;
@@ -286,6 +284,7 @@ img {
 
 .product-item {
     width: calc((100% - 48px) / 3);
+    padding-bottom: 120px;
 }
 
 /*-----OUR TEAM-----*/
