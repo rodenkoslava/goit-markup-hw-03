@@ -220,15 +220,24 @@ img {
 
 /*-----OUR PRINCIPLES AND PRIORITIES-----*/
 
-/* .section-principles {}
+.section-principles {
+    padding: 120px 0
+}
 
-.principles-title {}
+.principles-title {
+    margin-bottom: 8px;
+}
 
 .visually-hidden {}
 
-.principles-list {}
+.principles-list {
+    display: flex;
+    gap: 24px;
+}
 
-.principles-item {} */
+.principles-item {
+    width: calc((100% - 72px) / 4);
+}
 
 .page-subtitle {
     font-weight: 500;
