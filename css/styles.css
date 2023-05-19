@@ -181,7 +181,7 @@ img {
 }
 
 .address-item {
-    margin-right: 40px;
+    gap: 40px;
     padding-top: 24px;
     padding-bottom: 24px;
 }
@@ -192,7 +192,9 @@ img {
     line-height: var(--tipical-line-height);
     letter-spacing: 0.02em;
     color: inherit;
-    margin: 0;
+    gap: 40px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .address-link:hover,
