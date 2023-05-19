@@ -65,6 +65,10 @@ img {
     color: var(--white-color);
     background: var(--first-main-color);
     cursor: pointer;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
 }
 
 .btn-hero:hover,
