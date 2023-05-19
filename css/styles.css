@@ -213,7 +213,6 @@ img {
 
 .section-hero {
     background: var(--title-color);
-    padding: 188px 0;
 }
 
 .headline {
@@ -222,6 +221,7 @@ img {
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--white-color);
+    padding: 188px 0;
 }
 
 /*-----OUR PRINCIPLES AND PRIORITIES-----*/
