@@ -265,9 +265,7 @@ img {
 
 /*-----OUR PRODUCTS-----*/
 
-.product-section {
-    padding-bottom: 120px;
-}
+.product-section {}
 
 .body-title {
     font-size: 36px;
@@ -282,6 +280,7 @@ img {
 .product-list {
     display: flex;
     gap: 24px;
+    padding-bottom: 120px;
 }
 
 .product-item {
