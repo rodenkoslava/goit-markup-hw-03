@@ -140,13 +140,14 @@ img {
     display: flex;
     align-items: center;
     gap: 40px;
-    padding-bottom: 24px;
-    padding-top: 24px;
     margin: 0 auto;
 
 }
 
-.nav-item {}
+.nav-item {
+    padding-bottom: 24px;
+    padding-top: 24px;
+}
 
 .header-link {
     font-family: inherit;
@@ -167,7 +168,6 @@ img {
     font-style: normal;
     display: flex;
     align-items: center;
-
     margin: 0 auto;
 }
 
@@ -176,15 +176,9 @@ img {
     display: flex;
     align-items: center;
     gap: 40px;
-    padding-bottom: 24px;
-    padding-top: 24px;
 }
 
-.address-item {
-    gap: 40px;
-    padding-top: 24px;
-    padding-bottom: 24px;
-}
+.address-item {}
 
 .address-link {
     font-family: inherit;
