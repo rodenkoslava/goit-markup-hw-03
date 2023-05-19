@@ -224,9 +224,7 @@ img {
     padding: 120px 0;
 }
 
-.principles-title {
-    margin-bottom: 8px;
-}
+.principles-title {}
 
 .visually-hidden {
     position: absolute;
@@ -239,18 +237,15 @@ img {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-    margin-bottom: 8px;
 }
 
 .principles-list {
     display: flex;
     gap: 24px;
-    margin-bottom: 8px;
 }
 
 .principles-item {
     width: calc((100% - 72px) / 4);
-    margin-bottom: 8px;
 }
 
 .page-subtitle {
@@ -259,6 +254,7 @@ img {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--title-color);
+    margin-bottom: 8px;
 }
 
 .principles-text {
