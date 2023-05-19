@@ -246,7 +246,6 @@ img {
 
 .principles-item {
     width: calc((100% - 72px) / 4);
-    margin-bottom: 8px;
 }
 
 .page-subtitle {
@@ -262,7 +261,6 @@ img {
     font-size: 16px;
     line-height: var(--tipical-line-height);
     letter-spacing: 0.02em;
-    margin-bottom: 8px;
 }
 
 /*-----OUR PRODUCTS-----*/
