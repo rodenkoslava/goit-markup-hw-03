@@ -388,6 +388,7 @@ img {
 
 .footer-logo-first {
     color: var(--first-main-color);
+    margin-bottom: 16px;
 }
 
 .footer-logo-second {
