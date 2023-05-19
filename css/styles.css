@@ -141,13 +141,11 @@ img {
     align-items: center;
     gap: 40px;
     margin: 0 auto;
-
-}
-
-.nav-item {
     padding-bottom: 24px;
     padding-top: 24px;
 }
+
+.nav-item {}
 
 .header-link {
     font-family: inherit;
@@ -157,6 +155,8 @@ img {
     line-height: var(--tipical-line-height);
     letter-spacing: 0.02em;
     color: var(--title-color);
+    padding-bottom: 24px;
+    padding-top: 24px;
 }
 
 .header-link:hover,
