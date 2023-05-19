@@ -201,19 +201,6 @@ img {
     color: var(--second-main-color);
 }
 
-/*-----FOOTER-----*/
-
-.footer-section {
-    background: var(--title-color);
-}
-
-.footer-text {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--ghostWhite-color);
-}
-
 /*-----HERO-----*/
 
 .section-hero {
@@ -229,6 +216,7 @@ img {
     color: var(--white-color);
     max-width: 496px;
 }
+
 
 /*-----OUR PRINCIPLES AND PRIORITIES-----*/
 
@@ -346,4 +334,17 @@ img {
     line-height: var(--tipical-line-height);
     letter-spacing: 0.02em;
     color: var(--mediumdarkshadeofblue-color);
+}
+
+/*-----FOOTER-----*/
+
+.footer-section {
+    background: var(--title-color);
+}
+
+.footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--ghostWhite-color);
 }
