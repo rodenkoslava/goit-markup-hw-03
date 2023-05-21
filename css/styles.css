@@ -339,16 +339,17 @@ img {
 
 .btn-list {
     display: flex;
-    padding: 96px 0 120px list-style: none;
+    list-style: none;
+    padding: 96px 0 120px
 }
 
 .btn-item {}
 
 /*-----OUR GALLERY-----*/
 
-/* .gallery-list {}
+.gallery-list {}
 
-.gallery-item {} */
+.gallery-item {}
 
 .gallery-link {
     font-family: inherit;
