@@ -341,7 +341,9 @@ img {
     list-style: none;
 }
 
-/* .btn-item {} */
+.btn-item {
+    padding: 96px 0 120px
+}
 
 /*-----OUR GALLERY-----*/
 
