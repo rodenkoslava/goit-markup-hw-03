@@ -360,6 +360,8 @@ img {
 
 /*-----OUR GALLERY-----*/
 
+.galery {}
+
 .gallery-list {
     display: flex;
     flex-wrap: wrap;
