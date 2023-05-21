@@ -333,18 +333,16 @@ img {
 
 /*-----MENU BUTTON-----*/
 
-/* .section-btn {}
+.section-btn {}
 
-.filter-title {} */
+.filter-title {}
 
 .btn-list {
     display: flex;
-    list-style: none;
+    padding: 96px 0 120px list-style: none;
 }
 
-.btn-item {
-    padding: 96px 0 120px
-}
+.btn-item {}
 
 /*-----OUR GALLERY-----*/
 
