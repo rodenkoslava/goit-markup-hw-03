@@ -304,6 +304,7 @@ img {
 .team-list {
     display: flex;
     gap: 24px;
+
 }
 
 .team-item {
@@ -353,12 +354,11 @@ img {
 .btn-list {
     display: flex;
     list-style: none;
-
+    justify-content: center;
+    gap: 24px;
 }
 
 .btn-item {
-    justify-content: center;
-    gap: 24px;
     margin-bottom: 72px;
     padding: 12px 24px;
 }
