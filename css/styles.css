@@ -342,6 +342,12 @@ img {
     padding: 96px 0 120px;
 }
 
+.section-btn-portfolio {
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 72px
+}
+
 .filter-title {}
 
 .btn-list {
