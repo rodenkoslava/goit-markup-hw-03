@@ -343,12 +343,13 @@ img {
 .btn-list {
     display: flex;
     list-style: none;
-    justify-content: center;
-    gap: 24px;
-    margin-bottom: 72px;
+
 }
 
 .btn-item {
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 72px;
     padding: 12px 24px;
     border: 1px solid #e7e9fc;
     border-radius: 4px;
