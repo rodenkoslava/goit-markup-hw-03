@@ -86,7 +86,8 @@ img {
     color: var(--first-main-color);
     background: var(--ghostWhite-color);
     cursor: pointer;
-    padding: 12px 24px border: 1px solid #e7e9fc;
+    padding: 12px 24px;
+    border: 1px solid #e7e9fc;
     border-radius: 4px;
 
 }
@@ -343,11 +344,7 @@ img {
     padding: 96px 0 120px;
 }
 
-.section-btn-portfolio {
-    justify-content: center;
-    gap: 24px;
-    margin-bottom: 72px
-}
+.section-btn-portfolio {}
 
 .filter-title {}
 
@@ -359,10 +356,7 @@ img {
     margin-bottom: 72px;
 }
 
-.btn-item {
-    margin-bottom: 72px;
-    padding: 12px 24px;
-}
+.btn-item {}
 
 /*-----OUR GALLERY-----*/
 
