@@ -333,14 +333,19 @@ img {
 
 /*-----MENU BUTTON-----*/
 
-.section-btn {}
+.section-btn {
+    display: flex;
+    padding: 96px 0 120px;
+}
 
 .filter-title {}
 
 .btn-list {
     display: flex;
     list-style: none;
-    padding: 96px 0 120px
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 72px;
 }
 
 .btn-item {}
