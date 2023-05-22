@@ -70,6 +70,7 @@ img {
     border: none;
     border-radius: 4px;
     display: block;
+    margin: 0 auto;
 }
 
 .btn-hero:hover,
@@ -213,6 +214,7 @@ img {
     letter-spacing: 0.02em;
     color: var(--white-color);
     max-width: 496px;
+    margin: 0 auto;
 }
 
 
